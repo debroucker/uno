@@ -34,7 +34,7 @@ Else, do the commands :
 
 * `$ javac -classpath ./src/main/java src/main/java/perso/*/*.java -d out
 `
-* `java -classpath out perso.board.Board `
+* `$ java -classpath out perso.board.Board `
 
 and enjoy.
 
