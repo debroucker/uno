@@ -1,0 +1,15 @@
+perso/card/SimpleCard.class
+perso/type/TypeWithoutAttribute.class
+perso/card/StopCard.class
+perso/player/Player.class
+perso/card/Add2Card.class
+perso/type/TypeOfCards.class
+perso/card/ReverseCard.class
+perso/type/TypeAdd2.class
+perso/card/Add4Card.class
+perso/board/Board.class
+perso/color/Colors.class
+perso/type/TypeAdd4.class
+perso/card/Card.class
+perso/type/TypeSimple.class
+perso/card/JockerCard.class
